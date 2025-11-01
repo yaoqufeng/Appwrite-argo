@@ -2,6 +2,3 @@
 
 老王的frp脚本
 
-```
-bash <(curl -Ls https://raw.githubusercontent.com/eooce/scripts/master/frp.sh)
-```
